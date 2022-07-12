@@ -17,6 +17,7 @@
 |   TUNiB ELECTRA (Ko-En)   |   Small (10M)   |      [link](https://huggingface.co/tunib/electra-ko-en-small)   |
 |   KoELECTRA   |   Small (10M)   |      [link](https://huggingface.co/monologg/koelectra-small-v3-discriminator)   |
 |  KcELECTRA   |   Small (10M)   |     [link](https://huggingface.co/beomi/kcelectra-v2022-dev)   |
+|   Soongsil-BERT   |   Small (10M)   |   [link](https://huggingface.co/jason9693/soongsil-bert-small)   |
 |   Ko-CHAR-ELECTRA  |   Small (10M)   |     [link](https://huggingface.co/monologg/kocharelectra-small-discriminator)   |
 |   KE-T5 (Ko-En)   |   Small (60M)   |      [link](https://huggingface.co/KETI-AIR/ke-t5-small)   |
 |   KE-T5 (Ko)   |   Small (60M)   |      [link](https://huggingface.co/KETI-AIR/ke-t5-small-ko)   |
@@ -25,6 +26,7 @@
 |   KorBERT   |   Base (110M)   |     [link](https://aiopen.etri.re.kr/service_dataset.php)   |
 |   HanBERT   |   Base (110M)  |     [link](https://github.com/monologg/HanBert-Transformers)   |
 | KcBERT    |   Base (110M)   |     [link](https://huggingface.co/beomi/kcbert-base)   |
+|   Soongsil-BERT   |   Base (110M)   |   [link](https://huggingface.co/jason9693/soongsil-bert-base)   |
 |   KLUE-RoBERTa   |   Base (110M)  |     [link](https://huggingface.co/klue/roberta-base)   |
 |   KoELECTRA   |   Base (110M)   |     [link](https://huggingface.co/monologg/koelectra-base-v3-discriminator)   |
 |   KcELECTRA   |   Base (110M)   |     [link](https://huggingface.co/beomi/KcELECTRA-base)   |
