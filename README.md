@@ -25,7 +25,7 @@
 |   KorBERT   |   Base (110M)   |     [link](https://aiopen.etri.re.kr/service_dataset.php)   |
 |   HanBERT   |   Base (110M)  |     [link](https://github.com/monologg/HanBert-Transformers)   |
 | KcBERT    |   Base (110M)   |     [link](https://huggingface.co/beomi/kcbert-base)   |
-|   KLUE-Roberta   |   Base (110M)  |     [link](https://huggingface.co/klue/roberta-base)   |
+|   KLUE-RoBERTa   |   Base (110M)  |     [link](https://huggingface.co/klue/roberta-base)   |
 |   KoELECTRA   |   Base (110M)   |     [link](https://huggingface.co/monologg/koelectra-base-v3-discriminator)   |
 |   KcELECTRA   |   Base (110M)   |     [link](https://huggingface.co/beomi/KcELECTRA-base)   |
 |   TUNiB-ELECTRA (Ko)   |   Base (110M)   |      [link](https://huggingface.co/tunib/electra-ko-base)   |
@@ -44,7 +44,7 @@
 | KE-T5 (Ko-En)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-base)   |
 | KE-T5 (Ko)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-basko)   |
 | KcBERT     |   Large (340M)   |     [link](https://huggingface.co/beomi/kcbert-large)   |
-|   KLUE-Roberta   |   Large (340M)  |   [link](https://huggingface.co/klue/roberta-large)   |  
+|   KLUE-RoBERTa   |   Large (340M)  |   [link](https://huggingface.co/klue/roberta-large)   |  
 | KE-T5 (Ko-En)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large)   |
 | KE-T5 (Ko)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large-ko)   |
   
