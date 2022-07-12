@@ -1,4 +1,4 @@
-# Korean-PLM (Korean Pre-trained Language Model)
+# Korean-PLM (Korean Pre-trained Language Models)
    
 공개된 한국어 사전학습 모델을 기록합니다. 크게 아래 3개의 모델 계열로 구분했으며, 모델 사이즈는 정확하지 않을 수 있습니다.
   
