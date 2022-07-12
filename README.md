@@ -55,7 +55,7 @@
 |   LASSL GPT2   |   Small (20M)   |      [link](https://huggingface.co/lassl/gpt2-ko-small)   |
 |   LMKor KoGPT2   |   Base (110M)   |      [link](https://huggingface.co/kykim/gpt3-kor-small_based_on_gpt2)   |
 |   SKT KoGPT2   |   Base (110M)   |      [link](https://huggingface.co/skt/kogpt2-base-v2)   |
-|   SKT KoGPT2   |   Base (110M)   |      [link](https://huggingface.co/skt/kogpt2-base-v2)   |
+|   SKT KoGPT Trinity   |   1.2B   |      [link](https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5)   |
 |   KakaoBrain KoGPT   |   6B   |      [link](https://huggingface.co/kakaobrain/kogpt)   |
   
 ## Encoder-Decoder Model (Seq2seq 계열)  
