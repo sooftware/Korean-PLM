@@ -19,9 +19,6 @@
 |  KcELECTRA   |   Small (10M)   |     [link](https://huggingface.co/beomi/kcelectra-v2022-dev)   |
 |   Soongsil-BERT   |   Small (10M)   |   [link](https://huggingface.co/jason9693/soongsil-bert-small)   |
 |   Ko-CHAR-ELECTRA  |   Small (10M)   |     [link](https://huggingface.co/monologg/kocharelectra-small-discriminator)   |
-|   KE-T5 (Ko-En)   |   Small (60M)   |      [link](https://huggingface.co/KETI-AIR/ke-t5-small)   |
-|   KE-T5 (Ko)   |   Small (60M)   |      [link](https://huggingface.co/KETI-AIR/ke-t5-small-ko)   |
-|   LMKor T5  |   Small (60M)   |     [link](https://huggingface.co/kykim/t5-kor-small)   |
 |   KoBERT   |   Base (110M)   |      [link](https://huggingface.co/skt/kobert-base-v1)   |
 |   KorBERT   |   Base (110M)   |     [link](https://aiopen.etri.re.kr/service_dataset.php)   |
 |   HanBERT   |   Base (110M)  |     [link](https://github.com/monologg/HanBert-Transformers)   |
@@ -42,13 +39,8 @@
 |   Ko-CHAR-BERT   |   Base (110M)   |     [link](https://github.com/MrBananaHuman/KoreanCharacterBert)   |
 |   Ko-CHAR-ELECTRA   |   Base (110M)   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   BrainSBERT   |   Base (110M)   |     [link](https://huggingface.co/hyunwoongko/brainsbert-base)   |
-| KcT5     |   Base (220M)   |     [link](https://huggingface.co/beomi/KcT5-dev)   |
-| KE-T5 (Ko-En)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-base)   |
-| KE-T5 (Ko)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-basko)   |
 | KcBERT     |   Large (340M)   |     [link](https://huggingface.co/beomi/kcbert-large)   |
 |   KLUE-RoBERTa   |   Large (340M)  |   [link](https://huggingface.co/klue/roberta-large)   |  
-| KE-T5 (Ko-En)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large)   |
-| KE-T5 (Ko)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large-ko)   |
   
 ## Decoder Model (GPT 계열)
   
@@ -65,9 +57,17 @@
 | Model Name     | Size           |  Link           |
 | :------------: | :------------: |  :------------: |
 |   Cosmoquester BART   |   Mini (13M)   |      [link](https://huggingface.co/cosmoquester/bart-ko-mini)   |
+|   KE-T5 (Ko-En)   |   Small (60M)   |      [link](https://huggingface.co/KETI-AIR/ke-t5-small)   |
+|   KE-T5 (Ko)   |   Small (60M)   |      [link](https://huggingface.co/KETI-AIR/ke-t5-small-ko)   |
+|   LMKor T5  |   Small (60M)   |     [link](https://huggingface.co/kykim/t5-kor-small)   |
 |   Cosmoquester BART   |   Small (40M)   |      [link](https://huggingface.co/cosmoquester/bart-ko-small)   |
 |   LMKor BERT Shared   |   Base (130M)   |      [link](https://huggingface.co/kykim/bertshared-kor-base)   |
 |   SKT KoBART   |   Base (130M)   |      [link](https://huggingface.co/gogamza/kobart-base-v2)   |
 |   Cosmoquester BART   |   Base (130M)   |      [link](https://huggingface.co/gogamza/kobart-base-v2)   |
+| KcT5     |   Base (220M)   |     [link](https://huggingface.co/beomi/KcT5-dev)   |
+| KE-T5 (Ko-En)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-base)   |
+| KE-T5 (Ko)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-basko)   |
 |   Asian BART (Ko)   |   Base (360M)   |      [link](hyunwoongko/asian-bart-ko)   |
 |   mBART   |   Large (610M)   |      [link](https://huggingface.co/facebook/mbart-large-50)   |
+| KE-T5 (Ko-En)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large)   |
+| KE-T5 (Ko)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large-ko)   |
