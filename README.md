@@ -35,7 +35,8 @@
 |   LMKor ELECTRA   |   Base (110M)   |   [link](https://huggingface.co/kykim/electra-kor-base)   |
 |   KalBERT   |   Base (110M)   |     [link](https://github.com/MrBananaHuman/KalBert)   |
 |   LASSL BERT   |   Base (110M)   |      [link](https://huggingface.co/lassl/bert-ko-base)   |
-|   Distill-KoBERT   |   Base (110M)   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
+|   KoBigBird   |   Base (110M)   |      [link](https://huggingface.co/monologg/kobigbird-bert-base)   |
+|   Distill-KoBERT   |   -   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   Ko-CHAR-BERT   |   Base (110M)   |     [link](https://github.com/MrBananaHuman/KoreanCharacterBert)   |
 |   Ko-CHAR-ELECTRA   |   Base (110M)   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   BrainSBERT   |   Base (110M)   |     [link](https://huggingface.co/hyunwoongko/brainsbert-base)   |
