@@ -19,6 +19,7 @@
 |  KcELECTRA   |   Small (10M)   |     [link](https://huggingface.co/beomi/kcelectra-v2022-dev)   |
 |   Soongsil-BERT   |   Small (10M)   |   [link](https://huggingface.co/jason9693/soongsil-bert-small)   |
 |   Ko-CHAR-ELECTRA  |   Small (10M)   |     [link](https://huggingface.co/monologg/kocharelectra-small-discriminator)   |
+|   Distill-KoBERT   |   30M   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   KoBERT   |   Base (110M)   |      [link](https://huggingface.co/skt/kobert-base-v1)   |
 |   KorBERT   |   Base (110M)   |     [link](https://aiopen.etri.re.kr/service_dataset.php)   |
 |   HanBERT   |   Base (110M)  |     [link](https://github.com/monologg/HanBert-Transformers)   |
@@ -36,7 +37,6 @@
 |   KalBERT   |   Base (110M)   |     [link](https://github.com/MrBananaHuman/KalBert)   |
 |   LASSL BERT   |   Base (110M)   |      [link](https://huggingface.co/lassl/bert-ko-base)   |
 |   KoBigBird   |   Base (110M)   |      [link](https://huggingface.co/monologg/kobigbird-bert-base)   |
-|   Distill-KoBERT   |   -   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   Ko-CHAR-BERT   |   Base (110M)   |     [link](https://github.com/MrBananaHuman/KoreanCharacterBert)   |
 |   Ko-CHAR-ELECTRA   |   Base (110M)   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   BrainSBERT   |   Base (110M)   |     [link](https://huggingface.co/hyunwoongko/brainsbert-base)   |
