@@ -1,7 +1,7 @@
 # Korean-PLM (Korean Pre-trained Language Models)
-   
+
 공개된 한국어 사전학습 모델을 기록합니다. 크게 아래 3개의 모델 계열로 구분했으며, 모델 사이즈는 정확하지 않을 수 있습니다.
-  
+
 - Encoder Model (BERT 계열)
 - Decoder Model (GPT 계열)
 - Encoder-Decoder Model (Seq2seq 계열)
@@ -40,11 +40,12 @@
 |   Ko-CHAR-BERT   |   Base (110M)   |     [link](https://github.com/MrBananaHuman/KoreanCharacterBert)   |
 |   Ko-CHAR-ELECTRA   |   Base (110M)   |     [link](https://huggingface.co/monologg/kocharelectra-base-discriminator)   |
 |   BrainSBERT   |   Base (110M)   |     [link](https://huggingface.co/hyunwoongko/brainsbert-base)   |
+| KPFBERT | Base (110M) | [link](https://huggingface.co/jinmang2/kpfbert) |
 | KcBERT     |   Large (340M)   |     [link](https://huggingface.co/beomi/kcbert-large)   |
-|   KLUE-RoBERTa   |   Large (340M)  |   [link](https://huggingface.co/klue/roberta-large)   |  
-  
+|   KLUE-RoBERTa   |   Large (340M)  |   [link](https://huggingface.co/klue/roberta-large)   |
+
 ## Decoder Model (GPT 계열)
-  
+
 | Model Name     | Size           |  Link           |
 | :------------: | :------------: |  :------------: |
 |   LASSL GPT2   |   Small (20M)   |      [link](https://huggingface.co/lassl/gpt2-ko-small)   |
@@ -52,9 +53,9 @@
 |   SKT KoGPT2   |   Base (110M)   |      [link](https://huggingface.co/skt/kogpt2-base-v2)   |
 |   SKT KoGPT Trinity   |   1.2B   |      [link](https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5)   |
 |   KakaoBrain KoGPT   |   6B   |      [link](https://huggingface.co/kakaobrain/kogpt)   |
-  
+
 ## Encoder-Decoder Model (Seq2seq 계열)  
-  
+
 | Model Name     | Size           |  Link           |
 | :------------: | :------------: |  :------------: |
 |   Cosmoquester BART   |   Mini (13M)   |      [link](https://huggingface.co/cosmoquester/bart-ko-mini)   |
@@ -69,6 +70,9 @@
 | KE-T5 (Ko-En)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-base)   |
 | KE-T5 (Ko)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-basko)   |
 |   Asian BART (Ko)   |   Base (360M)   |      [link](hyunwoongko/asian-bart-ko)   |
+| pko-t5 (Ko) | Base (250M) | [link](https://huggingface.co/paust/pko-t5-base) |
+| Wisenut KoT5 (Ko) | Base (220M) | [link](https://github.com/wisenut-research/KoT5#usage) |
 |   mBART   |   Large (610M)   |      [link](https://huggingface.co/facebook/mbart-large-50)   |
 | KE-T5 (Ko-En)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large)   |
 | KE-T5 (Ko)    |   Large (770M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-large-ko)   |
+| pko-t5 (Ko) | Large (800M) | [link](https://huggingface.co/paust/pko-t5-large) |
