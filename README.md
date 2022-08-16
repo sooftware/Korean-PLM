@@ -66,6 +66,7 @@
 |   LMKor BERT Shared   |   Base (130M)   |      [link](https://huggingface.co/kykim/bertshared-kor-base)   |
 |   SKT KoBART   |   Base (130M)   |      [link](https://huggingface.co/gogamza/kobart-base-v2)   |
 |   Cosmoquester BART   |   Base (130M)   |      [link](https://huggingface.co/gogamza/kobart-base-v2)   |
+| Kolang-T5     |   Base (220M)   |     [link](https://huggingface.co/digit82/kolang-t5-base)   |
 | KcT5     |   Base (220M)   |     [link](https://huggingface.co/beomi/KcT5-dev)   |
 | KE-T5 (Ko-En)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-base)   |
 | KE-T5 (Ko)    |   Base (220M)   |     [link](https://huggingface.co/KETI-AIR/ke-t5-basko)   |
