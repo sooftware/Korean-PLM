@@ -52,6 +52,9 @@
 |   LMKor KoGPT2   |   Base (110M)   |      [link](https://huggingface.co/kykim/gpt3-kor-small_based_on_gpt2)   |
 |   SKT KoGPT2   |   Base (110M)   |      [link](https://huggingface.co/skt/kogpt2-base-v2)   |
 |   SKT KoGPT Trinity   |   1.2B   |      [link](https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5)   |
+|   EleutherAI Polyglot-Ko   |   1.3B   |      [link](https://huggingface.co/EleutherAI/polyglot-ko-1.3b)   |
+|   EleutherAI Polyglot-Ko   |   3.8B   |      [link](EleutherAI/polyglot-ko-3.8b)   |
+|   EleutherAI Polyglot-Ko   |   5.8B   |      [link](https://huggingface.co/EleutherAI/polyglot-ko-5.8b)   |
 |   KakaoBrain KoGPT   |   6B   |      [link](https://huggingface.co/kakaobrain/kogpt)   |
 
 ## Encoder-Decoder Model (Seq2seq 계열)  
